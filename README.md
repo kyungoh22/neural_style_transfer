@@ -1,12 +1,12 @@
 ## Art Generation -- Neural Style Transfer
 
-### Navigating the files and directories
+### Navigating the files and directories
 
 - You can find a step-by-step walkthrough of the project in the file **nst_style_transfer_walkthrough.ipynb**. Here I included all the helper functions in the notebook to help the reader more easily follow the steps. 
 
 - I then created a separate notebook, **nst_style_transfer_production.ipynb**, for which I moved all helper functions to a separate python file. All the code is contained in a single function, so you can try generating your own image by running the function with the appropriate arguments. The helper functions are included in the custom module **nst_helper_functions.py**
 
-### Overview of the project
+### Overview of the project
 
 - The goal is to generate an image (**G**) by merging a "content" image (**C**) with a "style" image (**S**). The generated image will contain the content of C in the style of S. 
 
