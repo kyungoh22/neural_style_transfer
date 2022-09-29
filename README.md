@@ -21,7 +21,7 @@
 
 
 ### 1) VGG19 architecture overview
-- The VGG19 model consists of five convolutional blocks followed by three fully connected layers. The model contains 19 layers in total. For the full details see the original paper [here] (https://arxiv.org/abs/1508.06576).
+- The VGG19 model consists of five convolutional blocks followed by three fully connected layers. The model contains 19 layers in total. For the full details see the original paper [here](https://arxiv.org/abs/1508.06576).
 
 ### 2) Optimization objective: Defining the cost function
 
