@@ -42,7 +42,7 @@ The coefficients "alpha" and "beta" can be adapted depending on whether we prior
 - For this project, I chose the layer 'block5_conv4'
 - Forward propagate image "C" and let **a_C** be the activations of the chosen hidden layer. The tensor a_C has the dimensions (n_H, n_W, n_C) and represents the "content" of image "C". 
 - Forward propagate image "G" and let **a_G** be the activations of the chosen hidden layer. The tensor a_G has the dimensions (n_H, n_W, n_C) and represents the "content" of image "G".
-- Compute J_content based on the squared norm of (a_C - a_G). 
+- Compute J_content based on the squared L2 norm of (a_C - a_G). 
 
 #### 2.2) Style cost function (J_style)
 
