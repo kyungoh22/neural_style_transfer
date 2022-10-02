@@ -2,9 +2,9 @@
 
 ### Navigating the files and directories
 
-- You can find a step-by-step walkthrough of the project in the file **nst_style_transfer_walkthrough.ipynb**. Here I included all the helper functions in the notebook to help the reader more easily follow the steps. 
+- You can find a step-by-step walkthrough of the project in the file **nst_style_transfer_walkthrough.ipynb**. All the helper functions are included in the notebook to help the reader more easily follow the steps. 
 
-- I then created a separate notebook, **nst_style_transfer_production.ipynb**, for which I moved all helper functions to a separate python file. All the code is contained in a single function, so you can try generating your own image by running the function with the appropriate arguments. The helper functions are included in the custom module **nst_helper_functions.py**
+- You can find a tidier version of the code in **nst_style_transfer_production.ipynb**. Everything is contained in a single function that you can try running to generate your own image. I moved all helper functions to the separate python file **nst_helper_functions.py**. 
 
 ### Overview of the project
 
