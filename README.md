@@ -1,6 +1,8 @@
 ## Art Generation -- Neural Style Transfer
 
+### Some images I generated
 ![](generated_images/florence_chagall.jpeg)
+![](generated_images/paros_matisse.jpeg)
 
 ### Navigating the files and directories
 
