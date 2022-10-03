@@ -1,7 +1,7 @@
 ## Art Generation -- Neural Style Transfer
 
 ### Sample images
-- You can find the images that I generated [here](https://github.com/kyungoh22/neural_style_transfer/blob/main/generated_images/florence_chagall.jpeg) and [here](https://github.com/kyungoh22/neural_style_transfer/blob/main/generated_images/paros_matisse.jpeg).
+[Preview1](generated_images/florence_chagall.jpeg)
 
 
 ### Navigating the files and directories
