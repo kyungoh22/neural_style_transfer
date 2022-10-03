@@ -1,8 +1,5 @@
 ## Art Generation -- Neural Style Transfer
 
-### Some images I generated
-![](generated_images/florence_chagall.jpeg)
-![](generated_images/paros_matisse.jpeg)
 
 ### Navigating the files and directories
 
@@ -76,7 +73,10 @@ The coefficients "alpha" and "beta" can be adapted depending on whether we prior
 #### 2.4) Remark on initializing the generated image (G)
 - We initialise the generated image as a "noisy" version of the content image. Essentially we create a copy of the image "C" and add random pixels to introduce noise. The addition of noise enables the image G to more quickly match the style of image S.
 
+### 3) Some images I generated
 
+![](generated_images/florence_chagall.jpeg)
+![](generated_images/paros_matisse.jpeg)
 
 
 
