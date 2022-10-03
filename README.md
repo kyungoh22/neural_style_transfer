@@ -7,6 +7,8 @@
 
 - You can find a tidier version of the code in **nst_style_transfer_production.ipynb**. Everything is contained in a single function that you can try running to generate your own image. I moved all helper functions to the separate python file **nst_helper_functions.py**. 
 
+- **Scroll below** to see some of my generated images.
+
 ### Overview of the project
 
 - The goal is to generate an image (**G**) by merging a "content" image (**C**) with a "style" image (**S**). The generated image will contain the content of C in the style of S. 
