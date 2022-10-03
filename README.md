@@ -10,7 +10,7 @@
 
 - The goal is to generate an image (**G**) by merging a "content" image (**C**) with a "style" image (**S**). The generated image will contain the content of C in the style of S. 
 
-- I use a previously trained convolutional network to capture, or encode, the content of C and the style of S. Specifically, I use the VGG19 model trained on the ImageNet database. 
+- I use a previously trained convolutional network to capture, or encode, the content of "C" and the style of "S". Specifically, I use the VGG19 model trained on the ImageNet database. 
 
 
 
