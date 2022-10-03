@@ -1,9 +1,5 @@
 ## Art Generation -- Neural Style Transfer
 
-### Sample images
-[Preview1](generated_images/florence_chagall.jpeg)
-
-
 ### Navigating the files and directories
 
 - You can find a step-by-step walkthrough of the project in the file **nst_style_transfer_walkthrough.ipynb**. All the helper functions are included in the notebook to help the reader more easily follow the steps. 
